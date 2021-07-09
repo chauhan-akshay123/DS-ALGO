@@ -1,5 +1,6 @@
 #include <climits>
-# include <iostream>
+#include <iostream>
+using namespace std;
 
 class StackUsingArray {
 	int *data;
